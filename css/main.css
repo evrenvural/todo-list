@@ -1,0 +1,9 @@
+.container{
+    margin-top: 20px;
+    /* margin-right: 10px; */
+    align-content: center;
+}
+.card-header h5{
+    color: red;
+    text-align: center;
+}
